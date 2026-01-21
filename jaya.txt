@@ -2,7 +2,12 @@ this is Afroz
 This is Kishore i have 5+ years of DevOps experience
 This is Jaya i have 4+ years of DevOps Experience
 3 members sitting on the room and doing DevOps handson pratices
+<<<<<<< HEAD
 this is changes for conflict
 hello world
 hello india
 
+=======
+this changes are made for merge conflict
+hello india
+>>>>>>> a96cd86753d690568de860bb31f59ac4dfd22829
