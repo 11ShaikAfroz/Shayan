@@ -7,4 +7,5 @@ hello world
 hello india
 this changes are made for merge conflict
 hello india
-
+New line is added by afroz 
+work on new chnages
